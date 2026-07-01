@@ -1,6 +1,6 @@
 # BrainBolt — Spark Your Mind ⚡
 
-A **Python OOP mini-project** for **PyCharm** that runs a 4-topic MCQ quiz
+A **Python OOP project** for **PyCharm** that runs a 4-topic MCQ quiz
 (Python / Data Science / Java / Full Stack), generates the right
 certificate (Gold / Silver / Bronze / Appreciation) from the user's score,
 and delivers it via **Email (Gmail SMTP)** and **WhatsApp (pywhatkit)**.
