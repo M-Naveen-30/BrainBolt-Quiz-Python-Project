@@ -1,0 +1,6 @@
+pygame>=2.5.0
+Pillow>=10.0.0
+reportlab>=4.0.0
+pywhatkit>=5.4
+pyautogui>=0.9.54
+numpy>=1.24.0
